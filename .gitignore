@@ -1,0 +1,5 @@
+*/__pycache__
+app/server/__pycache__/app.cpython-39.pyc
+.venv
+.idea
+poetry.lock
