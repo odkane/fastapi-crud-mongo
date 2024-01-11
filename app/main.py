@@ -8,7 +8,7 @@ app.include_router(router=router)
 
 
 @app.get("/")
-async def welcome():
+def welcome():
     return "Welcome to the test App!"
 
 
